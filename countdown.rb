@@ -8,5 +8,3 @@ def countdown(integer)
   end
   puts "HAPPY NEW YEAR!"
 end
-
-def countdown(integer)
