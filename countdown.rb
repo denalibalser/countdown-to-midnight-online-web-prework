@@ -5,5 +5,5 @@ def countdown(integer)
   while x > 0
     return "#{x} SECOND(S)!"
     x -= 1
-  end 
+  end
 end
